@@ -30,5 +30,8 @@ At this point, you should open up your `analysis.R` script to begin working with
 When you are finished, with your analysis, please answer the following questions in 1-2 sentences each. 
 
 - What about the analysis surprised you?
+- There are over 700,000 protests happened in Washington, DC
 - What parts of this analysis did you find challenging?
+- Part 3
 - What types of analysis do you wish you were able to do with the dataset, but currently don't have the technical skills to do?
+- drawing a pie chart
